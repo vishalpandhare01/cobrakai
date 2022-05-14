@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://source.unsplash.com/random/900×700/?martialart);
+    background-size: 100% 1500px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.p1{
+    text-align: center;
+    background-color: rgb(52, 106, 154);
+    width: 20%;
+    border: 2em;
+    color: aqua;
+    size: large;
+    margin:2em;
+    border-style: inherit;
+    border-color: black;
+    border-radius: 1em;
+    float: left;
+    height: 7em;
+}
+.container{
+    position: absolute;
+    height: auto;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(35, 55, 75);
+    font-size: 70px;
+}
+h3{
+    font-family: cursive;
+    color: rgb(30, 207, 30);
+    font-size: 30px;
+}
+img{
+    width: 100%;  
+}
+input{
+    border-color: black;
+    border-radius: 1px;
+    margin-right: 10em;
+    margin: 3px;
+    width:20em
+}
+label{
+    color: rgb(224, 234, 172);
+    size: 10px;
+}
+form{
+    size: 20px;
+    margin-left: 50px;
+    width: auto;
+    height: auto;
+}
+button{
+    color: aqua;
+    background-color: rgb(128, 128, 180);
+    width: 6em;
+    height: 3em;
+}
